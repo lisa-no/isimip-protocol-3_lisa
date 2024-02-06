@@ -145,7 +145,7 @@
     ]
   },
   {
-    "specifier": "chelsa-w5e5",
+    "specifier": "chelsa-w5e5v1-0",
     "specifier_file": "chelsa-w5e5v1-0",
     "priority": 5,
     "title": "CHELSA-W5E5",
@@ -357,8 +357,8 @@
     ]
   },
   {
-    "specifier": "chelsa-w5e5v1.0",
-    "title": "CHELSA-W5E5v1.0",
+    "specifier": "chelsa-w5e5v1-0",
+    "title": "CHELSA-W5E5v1-0",
     "products": [
       "SecondaryInputData"
     ],
