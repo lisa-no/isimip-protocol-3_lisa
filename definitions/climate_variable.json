@@ -122,7 +122,7 @@
         "20CRv3",
         "20CRv3-W5E5",
         "20CRv3-ERA5",
-        "CHELSA-W5E5"
+        "CHELSA-W5E5v1-0"
       ],
       "ISIMIP3b": [
         "GFDL-ESM4",
@@ -337,7 +337,7 @@
         "20CRv3",
         "20CRv3-W5E5",
         "20CRv3-ERA5",
-        "CHELSA-W5E5"
+        "CHELSA-W5E5v1-0"
       ],
       "ISIMIP3b": [
         "GFDL-ESM4",
@@ -448,7 +448,7 @@
         "20CRv3",
         "20CRv3-W5E5",
         "20CRv3-ERA5",
-        "CHELSA-W5E5"
+        "CHELSA-W5E5v1-0"
       ],
       "ISIMIP3b": [
         "GFDL-ESM4",
@@ -507,7 +507,7 @@
         "20CRv3",
         "20CRv3-W5E5",
         "20CRv3-ERA5",
-        "CHELSA-W5E5"
+        "CHELSA-W5E5v1-0"
       ],
       "ISIMIP3b": [
         "GFDL-ESM4",
@@ -566,7 +566,7 @@
         "20CRv3",
         "20CRv3-W5E5",
         "20CRv3-ERA5",
-        "CHELSA-W5E5"
+        "CHELSA-W5E5v1-0"
       ],
       "ISIMIP3b": [
         "GFDL-ESM4",
